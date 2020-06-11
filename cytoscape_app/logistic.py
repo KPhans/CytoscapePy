@@ -77,5 +77,3 @@ XNew = [[1,2,3,4,5]]
 clf_0 = LogisticRegression().fit(X, y)
 
 pred_y_0 = clf_0.predict(X)
-
-
